@@ -6,7 +6,7 @@
                 "useBuiltIns": "usage",
                 "corejs": "3.6",
                 "targets": "> 0.25%, not dead",
-                "debug": true
+                "debug": false
             }
         ],
         "@babel/preset-react"
